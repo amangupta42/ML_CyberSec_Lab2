@@ -23,5 +23,7 @@ lab2
   
 Please run the Lab2_aag9131.ipynb for the solution in the Lab2 folder.  
   
-The B_Prime models are stores as B_Prime_2p for 2%, B_Prime_4p for 4% and B_Prime_10p for 10%.
-
+The B_Prime models are stores as B_Prime_2p for 2%, B_Prime_4p for 4% and B_Prime_10p for 10%.  
+  
+The below graph shows the obtained result as the comparison of attack success rate and test accuracies on varying the fraction of pruned channels.
+![Graph](diagram/graph.png)
