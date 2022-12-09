@@ -2,6 +2,7 @@
 Lab 2 for ML In Cybersecurity
 
 The data needs to be put into the lab2 folder. This is how the file structure should look like - 
+
 lab2
  ┣ .ipynb_checkpoints
  ┣ B_prime_10p
