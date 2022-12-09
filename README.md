@@ -1,7 +1,7 @@
 # ML_CyberSec_Lab2
 Lab 2 for ML In Cybersecurity  
   
-The data needs to be put into the lab2 folder. This is how the file structure should look like -  
+The clean and bad data needs to be put into the lab2 folder. This is how the file structure should look like -  
   
   
 lab2  
